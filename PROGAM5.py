@@ -213,7 +213,7 @@ win.after(1000, print_text)
 
 
 
-#Open an Image in a Variable
+#Open an Image in a Variable  #abrir imagen
 from PIL import ImageTk, Image
 img1 = ImageTk.PhotoImage(imgxs)
 
